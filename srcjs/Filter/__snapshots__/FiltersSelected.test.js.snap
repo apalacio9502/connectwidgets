@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FiltersSelected /> renders properly 1`] = `
+<div
+  className="rscfilter-selections"
+>
+  <div
+    className="rscfilter-selections__item badge rounded-pill bg-secondary"
+    key="API"
+  >
+    API
+    <span
+      className="rscfilter-selections__item-discard"
+      onClick={[Function]}
+      role="button"
+    />
+  </div>
+  <div
+    className="rscfilter-selections__item badge rounded-pill bg-secondary"
+    key="Application"
+  >
+    Application
+    <span
+      className="rscfilter-selections__item-discard"
+      onClick={[Function]}
+      role="button"
+    />
+  </div>
+  <div
+    className="rscfilter-selections__item badge rounded-pill bg-secondary"
+    key="Document"
+  >
+    Document
+    <span
+      className="rscfilter-selections__item-discard"
+      onClick={[Function]}
+      role="button"
+    />
+  </div>
+</div>
+`;

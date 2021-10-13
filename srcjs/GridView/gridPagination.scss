@@ -1,0 +1,19 @@
+/*
+  Meant to be styled to match rsc_table (reactable) pagination
+*/
+.rscgrid-pagination {
+  /*
+    more default styles on theming files
+  */
+
+  &__sep {
+    line-height: 2.4em;
+    margin: 0 0.6em;
+  }
+
+  &__btn {
+    &--disabled {
+      pointer-events: none;
+    }
+  }
+}
